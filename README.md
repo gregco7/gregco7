@@ -1,4 +1,4 @@
-## Hi, I'm Gregory 👋
+## Hi, I'm Greg!
 
 🎓 Computer Science student at Northeastern University, rising sophomore on the Boston campus
 
