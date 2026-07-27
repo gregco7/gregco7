@@ -1,6 +1,6 @@
 ## Hi, I'm Greg!
 
-🎓 Computer Science student at Northeastern University, rising sophomore on the Boston campus
+🎓 Computer Science student at [Northeastern University](https://www.northeastern.edu/), rising sophomore on the Boston campus
 
 🛠️ I mainly use Python and C++
 
