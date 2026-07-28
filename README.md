@@ -4,7 +4,7 @@
 
 🛠️ I mainly use Python and C++
 
-🤔 Currently interested in Agentic Systems, AI Workflows
+📗 Currently interested in AI Workflows, DSA
 
 ⭐ Fun fact: Eagle Scout 🇺🇸
 
