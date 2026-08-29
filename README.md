@@ -10,7 +10,7 @@ See whats currently got my focus: [Laundry Watch](https://github.com/gregco7/lau
 - My favorite TV Shows are Breaking Bad, and my favorite animes are Attack on Titan and Vinland Saga
 - I know everything about VALORANT e-sports (VCT). Ask me about Valorant
 
-***
+## Contact:
 
 🎓 Computer Science student at [Northeastern University](https://www.northeastern.edu/), rising sophomore on the Boston campus.
 
