@@ -7,7 +7,7 @@ See whats currently got my focus: [Laundry Watch](https://github.com/gregco7/lau
 ## Tidbits:
 
 - I enjoy energy drinks and weight lifting. Ask me about energy drinks
-- My favorite TV Shows are Breaking Bad, and my favorite animes are Attack on Titan and Vinland Saga
+- My favorite TV Show is Breaking Bad, and my favorite animes are Attack on Titan, Vinland Saga and Death Note
 - I know everything about VALORANT e-sports (VCT). Ask me about Valorant
 
 ## Contact:
