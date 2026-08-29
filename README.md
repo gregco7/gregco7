@@ -4,7 +4,7 @@ I'm Gregory, a student passionate about building things people want to use.
 
 See whats got my current got my focus: [Laundry Watch](https://github.com/gregco7/laundry_watch)
 
-**Tidbits:**
+# Tidbits:
 
 - I enjoy energy drinks and weight lifting. Ask me about energy drinks
 - My favorite TV Shows are Breaking Bad, and my favorite animes are Attack on Titan and Vinland Saga
