@@ -11,6 +11,8 @@ See whats got my current got my focus: [Laundry Watch](https://github.com/gregco
 - Fun Fact 2
 - Fun Fact 3
 
+***
+
 🎓 Computer Science student at [Northeastern University](https://www.northeastern.edu/), rising sophomore on the Boston campus.
 
 📫 Reach me at courtney.g@northeastern.edu
