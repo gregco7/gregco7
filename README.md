@@ -1,4 +1,4 @@
-# Hi there! 
+# About me
 
 I'm Gregory, a student passionate about building things people want to use.
 
