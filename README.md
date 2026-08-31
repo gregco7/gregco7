@@ -20,9 +20,6 @@
 ## 🧑‍💻 About Me
 I'm Gregory Courtney, a student passionate about building things people want to use.
 
-- [Laundry Watch](https://github.com/gregco7/laundry_watch) <a href="https://micropython.org" target="_blank" rel="noreferrer"><img align="right" src="https://raw.githubusercontent.com/micropython/micropython/master/logo/trans-logo.png" alt="MicroPython" height="40"/></a><a href="https://react.dev" target="_blank" rel="noreferrer"><img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="40"/></a><a href="https://www.sqlite.org" target="_blank" rel="noreferrer"><img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" height="40"/></a><a href="https://www.python.org" target="_blank" rel="noreferrer"><img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40"/></a>
-  <!-- tech: python, sqlite, react, micropython -->
-
 ## 🤔 Other Stuff:
 
 - In my free time I enjoy weight lifting, random sports with friends and reading
