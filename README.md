@@ -20,7 +20,7 @@
 ## 🧑‍💻 About Me
 I'm Gregory Courtney, a student passionate about building things people want to use.
 
-## 🚀 What's got my focus:
+## 🚀 Right Now:
 
 ### 🛠️ Projects:
 
@@ -29,9 +29,7 @@ I'm Gregory Courtney, a student passionate about building things people want to 
 
 ## 🤔 Other Stuff:
 
-- I enjoy energy drinks and weight lifting. Ask me about energy drinks
-- I know everything about VALORANT e-sports (VCT). Ask me about Valorant
-- My favorite TV Show is Breaking Bad, and my favorite animes are Attack on Titan, Vinland Saga and Death Note
+- In my free time I enjoy weight lifting, random sports with friends and reading
 
 ## ✉️ Contact:
 
