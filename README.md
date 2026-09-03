@@ -13,7 +13,7 @@
   Verify with:   python3 semantics/build_readme.py --check
 -->
 <h1 align="center">Hi, I'm Gregory 👋</h1>
-<h3 align="center">🎓 Computer Science student at Northeastern University, rising sophomore on the Boston campus.</h3>
+<h3 align="center">🎓 Second year Computer Science student at Northeastern University on the Boston campus.</h3>
 
 ---
 
